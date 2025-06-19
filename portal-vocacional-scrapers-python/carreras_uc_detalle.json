@@ -1,0 +1,1193 @@
+[
+  {
+    "nombre": "Actuación",
+    "link": "https://admision.uc.cl/carreras/actuacion/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 6008000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 792.18,
+    "vacantes": 45,
+    "ponderaciones": {
+      "nem": 12.0,
+      "ranking": 12.0,
+      "compLectora": 16.0,
+      "mat1": 10.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Administración Pública",
+    "link": "https://admision.uc.cl/carreras/administracion-publica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6482000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 779.9,
+    "vacantes": 70,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 20.0,
+      "mat1": 30.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Agronomía",
+    "link": "https://admision.uc.cl/carreras/agronomia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7548000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 723.2,
+    "vacantes": 210,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 30.0,
+      "compLectora": 10.0,
+      "mat1": 30.0,
+      "ciencias": 10.0
+    }
+  },
+  {
+    "nombre": "Antropología",
+    "link": "https://admision.uc.cl/carreras/antropologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7018000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 780.55,
+    "vacantes": 70,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 25.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "Arqueología",
+    "link": "https://admision.uc.cl/carreras/arqueologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7018000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 780.55,
+    "vacantes": 70,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 25.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "Arquitectura",
+    "link": "https://admision.uc.cl/carreras/arquitectura/",
+    "area": "",
+    "subArea": "",
+    "duracion": 11,
+    "vacantes": 136,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 871.2,
+    "arancel": 8494000,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 15.0,
+      "mat1": 35.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Arte",
+    "link": "https://admision.uc.cl/carreras/arte/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 718.45,
+    "vacantes": 87,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 30.0,
+      "compLectora": 20.0,
+      "mat1": 15.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "Astronomía",
+    "link": "https://admision.uc.cl/carreras/astronomia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 9,
+    "arancel": 6186000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 908.4,
+    "vacantes": 28,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 35.0,
+      "ciencias": 15.0
+    }
+  },
+  {
+    "nombre": "Bachillerato Inicia en Ciencias Naturales y Matemática",
+    "link": "https://admision.uc.cl/carreras/bachillerato-en-ciencias-naturales-y-matematica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 4,
+    "vacantes": 75,
+    "arancel": 6356000,
+    "ponderaciones": {}
+  },
+  {
+    "nombre": "Bachillerato Inicia en Ciencias Sociales",
+    "link": "https://admision.uc.cl/carreras/bachillerato-inicia-en-ciencias-sociales/",
+    "area": "",
+    "subArea": "",
+    "duracion": 4,
+    "vacantes": 50,
+    "arancel": 6356000,
+    "ponderaciones": {}
+  },
+  {
+    "nombre": "Bachillerato Inicia en Ciencias Sociales - Campus Villarrica",
+    "link": "https://admision.uc.cl/carreras/bachillerato-inicia-en-ciencias-sociales-campus-villarrica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 4,
+    "vacantes": 25,
+    "arancel": 6356000,
+    "ponderaciones": {}
+  },
+  {
+    "nombre": "Biología",
+    "link": "https://admision.uc.cl/carreras/biologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 5286000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 789.65,
+    "vacantes": 60,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 25.0,
+      "ciencias": 25.0
+    }
+  },
+  {
+    "nombre": "Biología Marina",
+    "link": "https://admision.uc.cl/carreras/biologia-marina/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7018000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 783.35,
+    "vacantes": 30,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 25.0,
+      "ciencias": 25.0
+    }
+  },
+  {
+    "nombre": "Bioquímica",
+    "link": "https://admision.uc.cl/carreras/bioquimica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7018000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 886.9,
+    "vacantes": 40,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 30.0,
+      "ciencias": 20.0
+    }
+  },
+  {
+    "nombre": "Ciencia Política",
+    "link": "https://admision.uc.cl/carreras/ciencia-politica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6724000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 837.3,
+    "vacantes": 35,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 25.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "College Artes y Humanidades",
+    "link": "https://admision.uc.cl/carreras/college-artes-y-humanidades/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 7752000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 742.25,
+    "vacantes": 60,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 25.0,
+      "mat1": 25.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "College Ciencias Naturales y Matemáticas",
+    "link": "https://admision.uc.cl/carreras/college-ciencias-naturales-y-matematicas/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 8828000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 859.65,
+    "vacantes": 400,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 35.0,
+      "ciencias": 15.0
+    }
+  },
+  {
+    "nombre": "College Ciencias Sociales",
+    "link": "https://admision.uc.cl/carreras/college-ciencias-sociales/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 7752000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 762.5,
+    "vacantes": 350,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 25.0,
+      "mat1": 25.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Construcción Civil",
+    "link": "https://admision.uc.cl/carreras/construccion-civil/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7548000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 711.1,
+    "vacantes": 205,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 40.0,
+      "ciencias": 10.0
+    }
+  },
+  {
+    "nombre": "Derecho",
+    "link": "https://admision.uc.cl/carreras/derecho/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7752000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 869.35,
+    "vacantes": 325,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 25.0,
+      "mat1": 10.0,
+      "historia": 25.0
+    }
+  },
+  {
+    "nombre": "Dirección Audiovisual",
+    "link": "https://admision.uc.cl/carreras/direccion-audiovisual/",
+    "area": "",
+    "subArea": "",
+    "duracion": 9,
+    "arancel": 7548000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 811.5,
+    "vacantes": 125,
+    "ponderaciones": {
+      "nem": 15.0,
+      "ranking": 25.0,
+      "compLectora": 25.0,
+      "mat1": 20.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "Diseño",
+    "link": "https://admision.uc.cl/carreras/diseno/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "vacantes": 178,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 798.15,
+    "arancel": 7548000,
+    "ponderaciones": {
+      "nem": 25.0,
+      "ranking": 25.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Enfermería",
+    "link": "https://admision.uc.cl/carreras/enfermeria/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6246000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 840.25,
+    "vacantes": 120,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 25.0,
+      "compLectora": 10.0,
+      "mat1": 20.0,
+      "ciencias": 25.0
+    }
+  },
+  {
+    "nombre": "Estadística",
+    "link": "https://admision.uc.cl/carreras/estadistica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 5786000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 785.55,
+    "vacantes": 40,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 10.0,
+      "compLectora": 10.0,
+      "mat1": 45.0,
+      "ciencias": 10.0,
+      "mat2": 5.0
+    }
+  },
+  {
+    "nombre": "Estética",
+    "link": "https://admision.uc.cl/carreras/estetica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 4,
+    "arancel": 5286000,
+    "ponderaciones": {}
+  },
+  {
+    "nombre": "Filosofía",
+    "link": "https://admision.uc.cl/carreras/filosofia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 673.95,
+    "vacantes": 25,
+    "ponderaciones": {
+      "nem": 25.0,
+      "ranking": 25.0,
+      "compLectora": 25.0,
+      "mat1": 15.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Física",
+    "link": "https://admision.uc.cl/carreras/fisica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 9,
+    "arancel": 5638000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 884.15,
+    "vacantes": 31,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 10.0,
+      "compLectora": 10.0,
+      "mat1": 45.0,
+      "ciencias": 15.0
+    }
+  },
+  {
+    "nombre": "Fonoaudiología",
+    "link": "https://admision.uc.cl/carreras/fonoaudiologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6246000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 697.45,
+    "vacantes": 58,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 25.0,
+      "compLectora": 10.0,
+      "mat1": 20.0,
+      "ciencias": 25.0
+    }
+  },
+  {
+    "nombre": "Geografía",
+    "link": "https://admision.uc.cl/carreras/geografia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "vacantes": 50,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 658.4,
+    "arancel": 5286000,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 20.0,
+      "mat1": 25.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "Historia",
+    "link": "https://admision.uc.cl/carreras/historia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 5286000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 736.15,
+    "vacantes": 60,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 15.0,
+      "mat1": 10.0,
+      "historia": 35.0
+    }
+  },
+  {
+    "nombre": "Ingeniería",
+    "link": "https://admision.uc.cl/carreras/ingenieria/",
+    "area": "",
+    "subArea": "",
+    "duracion": 11,
+    "arancel": 9498000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 899.95,
+    "vacantes": 650,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 25.0,
+      "ciencias": 15.0,
+      "mat2": 10.0
+    }
+  },
+  {
+    "nombre": "Ingeniería Comercial",
+    "link": "https://admision.uc.cl/carreras/ingenieria-comercial/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "vacantes": 418,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 880.4,
+    "arancel": 2025,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 30.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Ingeniería en Recursos Naturales",
+    "link": "https://admision.uc.cl/carreras/ingenieria-en-recursos-naturales/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7548000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 677.25,
+    "vacantes": 85,
+    "ponderaciones": {
+      "nem": 15.0,
+      "ranking": 25.0,
+      "compLectora": 10.0,
+      "mat1": 25.0,
+      "ciencias": 15.0,
+      "mat2": 10.0
+    }
+  },
+  {
+    "nombre": "Ingeniería Forestal",
+    "link": "https://admision.uc.cl/carreras/ingenieria-forestal/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7548000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 723.2,
+    "vacantes": 210,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 30.0,
+      "compLectora": 10.0,
+      "mat1": 30.0,
+      "ciencias": 10.0
+    }
+  },
+  {
+    "nombre": "Interpretación Musical",
+    "link": "https://admision.uc.cl/carreras/interpretacion-musical/",
+    "area": "",
+    "subArea": "",
+    "duracion": 12,
+    "vacantes": 15,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 768.8,
+    "arancel": 5992000,
+    "ponderaciones": {
+      "nem": 12.0,
+      "ranking": 12.0,
+      "compLectora": 12.0,
+      "mat1": 14.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Kinesiología",
+    "link": "https://admision.uc.cl/carreras/kinesiologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6830000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 801.95,
+    "vacantes": 75,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 25.0,
+      "compLectora": 10.0,
+      "mat1": 20.0,
+      "ciencias": 25.0
+    }
+  },
+  {
+    "nombre": "Letras Hispánicas",
+    "link": "https://admision.uc.cl/carreras/letras-hispanicas/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 5286000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 714.55,
+    "vacantes": 60,
+    "ponderaciones": {
+      "nem": 25.0,
+      "ranking": 25.0,
+      "compLectora": 25.0,
+      "mat1": 15.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Letras Inglesas",
+    "link": "https://admision.uc.cl/carreras/letras-inglesas/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 5286000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 733.75,
+    "vacantes": 38,
+    "ponderaciones": {
+      "nem": 25.0,
+      "ranking": 25.0,
+      "compLectora": 25.0,
+      "mat1": 15.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Licenciatura en Ingeniería en Ciencia de Datos",
+    "link": "https://admision.uc.cl/carreras/licenciatura-en-ingenieria-en-ciencia-de-datos/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 8320000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 798.9,
+    "vacantes": 80,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 30.0,
+      "ciencias": 10.0,
+      "mat2": 10.0
+    }
+  },
+  {
+    "nombre": "Licenciatura en Ingeniería en Ciencia de la Computación",
+    "link": "https://admision.uc.cl/carreras/licenciatura-en-ingenieria-en-ciencia-de-la-computacion/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "puntaje_minimo": 485.0,
+    "arancel": 8828000,
+    "puntaje_ultimo": 810.9,
+    "vacantes": 100,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 25.0,
+      "ciencias": 15.0,
+      "mat2": 10.0
+    }
+  },
+  {
+    "nombre": "Matemática",
+    "link": "https://admision.uc.cl/carreras/matematica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "arancel": 5786000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 827.9,
+    "vacantes": 40,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 10.0,
+      "compLectora": 10.0,
+      "mat1": 45.0,
+      "ciencias": 15.0
+    }
+  },
+  {
+    "nombre": "Medicina",
+    "link": "https://admision.uc.cl/carreras/medicina/",
+    "area": "",
+    "subArea": "",
+    "duracion": 12,
+    "arancel": 9930000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 954.45,
+    "vacantes": 82,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 15.0,
+      "mat1": 20.0,
+      "ciencias": 25.0
+    }
+  },
+  {
+    "nombre": "Medicina Veterinaria",
+    "link": "https://admision.uc.cl/carreras/medicina-veterinaria/",
+    "area": "",
+    "subArea": "",
+    "duracion": 12,
+    "arancel": 7548000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 825.5,
+    "vacantes": 110,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 20.0,
+      "mat1": 25.0,
+      "ciencias": 15.0
+    }
+  },
+  {
+    "nombre": "Música",
+    "link": "https://admision.uc.cl/carreras/musica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 8,
+    "vacantes": 25,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 659.24,
+    "arancel": 5992000,
+    "ponderaciones": {
+      "nem": 12.0,
+      "ranking": 12.0,
+      "compLectora": 12.0,
+      "mat1": 14.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Nutrición y Dietética",
+    "link": "https://admision.uc.cl/carreras/nutricion-y-dietetica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 5972000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 760.15,
+    "vacantes": 58,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 25.0,
+      "compLectora": 10.0,
+      "mat1": 20.0,
+      "ciencias": 25.0
+    }
+  },
+  {
+    "nombre": "Odontología",
+    "link": "https://admision.uc.cl/carreras/odontologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 12,
+    "arancel": 9930000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 865.4,
+    "vacantes": 60,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 25.0,
+      "compLectora": 10.0,
+      "mat1": 20.0,
+      "ciencias": 25.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Educación Especial",
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-especial/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 725.6,
+    "vacantes": 40,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 20.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Educación Física y Salud para Educación Básica y Media",
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-fisica-y-salud-para-educacion-basica-y-media/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 741.6,
+    "vacantes": 60,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 30.0,
+      "compLectora": 10.0,
+      "mat1": 30.0,
+      "ciencias": 10.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Educación General Básica - Santiago",
+    "link": "https://admision.uc.cl/carreras/pedagogia-general-basica-santiago/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "vacantes": 150,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 690.0,
+    "arancel": 6006000,
+    "ponderaciones": {
+      "nem": 25.0,
+      "ranking": 25.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Educación Media",
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-media/",
+    "area": "",
+    "subArea": "",
+    "duracion": 2,
+    "arancel": 6006000,
+    "ponderaciones": {}
+  },
+  {
+    "nombre": "Pedagogía en Educación Media en Ciencias Naturales y Biología",
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-media-en-ciencias-naturales-y-biologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 765.6,
+    "vacantes": 25,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 40.0,
+      "ciencias": 10.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Educación Media en Física",
+    "link": "https://admision.uc.cl/carreras/pedagogia-media-en-fisica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 729.9,
+    "vacantes": 10,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 40.0,
+      "ciencias": 10.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Educación Media en Matemática",
+    "link": "https://admision.uc.cl/carreras/pedagogia-media-en-matematica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 808.35,
+    "vacantes": 40,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 35.0,
+      "ciencias": 10.0,
+      "mat2": 5.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Educación Media en Química",
+    "link": "https://admision.uc.cl/carreras/pedagogia-media-en-quimica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 649.7,
+    "vacantes": 20,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 40.0,
+      "ciencias": 10.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Educación Parvularia - Santiago",
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-parvularia-santiago/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "vacantes": 80,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 721.75,
+    "arancel": 6006000,
+    "ponderaciones": {
+      "nem": 25.0,
+      "ranking": 25.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Educación Parvularia - Villarrica",
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-parvularia-villarrica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "vacantes": 35,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 474.5,
+    "arancel": 4140000,
+    "ponderaciones": {
+      "nem": 10.0,
+      "ranking": 40.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Inglés para Educación Básica y Media",
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-ingles-para-educacion-basica-y-media/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 760.3,
+    "vacantes": 50,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 30.0,
+      "mat1": 20.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Pedagogía en Religión Católica",
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-religion-catolica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "vacantes": 2024,
+    "puntaje_minimo": 2025.0,
+    "puntaje_ultimo": 617.6,
+    "arancel": 3902000,
+    "ponderaciones": {}
+  },
+  {
+    "nombre": "Pedagogía General Básica - Campus Villarrica",
+    "link": "https://admision.uc.cl/carreras/pedagogia-general-basica-campus-villarrica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "vacantes": 35,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 510.4,
+    "arancel": 4140000,
+    "ponderaciones": {
+      "nem": 10.0,
+      "ranking": 40.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 10.0
+    }
+  },
+  {
+    "nombre": "Periodismo",
+    "link": "https://admision.uc.cl/carreras/periodismo/",
+    "area": "",
+    "subArea": "",
+    "duracion": 9,
+    "arancel": 7548000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 811.5,
+    "vacantes": 125,
+    "ponderaciones": {
+      "nem": 15.0,
+      "ranking": 25.0,
+      "compLectora": 25.0,
+      "mat1": 20.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "Planificación Urbana",
+    "link": "https://admision.uc.cl/carreras/planificacion-urbana/",
+    "area": "",
+    "subArea": "",
+    "duracion": 11,
+    "arancel": 7892000,
+    "ponderaciones": {}
+  },
+  {
+    "nombre": "Psicología",
+    "link": "https://admision.uc.cl/carreras/psicologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "vacantes": 125,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 880.9,
+    "arancel": 7752000,
+    "ponderaciones": {
+      "nem": 25.0,
+      "ranking": 25.0,
+      "compLectora": 10.0,
+      "mat1": 20.0,
+      "historia": 20.0
+    }
+  },
+  {
+    "nombre": "Publicidad",
+    "link": "https://admision.uc.cl/carreras/publicidad/",
+    "area": "",
+    "subArea": "",
+    "duracion": 9,
+    "arancel": 7548000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 811.5,
+    "vacantes": 125,
+    "ponderaciones": {
+      "nem": 15.0,
+      "ranking": 25.0,
+      "compLectora": 25.0,
+      "mat1": 20.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "Química",
+    "link": "https://admision.uc.cl/carreras/quimica/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6186000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 847.4,
+    "vacantes": 35,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 35.0,
+      "ciencias": 15.0
+    }
+  },
+  {
+    "nombre": "Química y Farmacia",
+    "link": "https://admision.uc.cl/carreras/quimica-y-farmacia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 905.3,
+    "vacantes": 70,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 10.0,
+      "mat1": 35.0,
+      "ciencias": 15.0
+    }
+  },
+  {
+    "nombre": "Sociología",
+    "link": "https://admision.uc.cl/carreras/sociologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 7018000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 703.4,
+    "vacantes": 76,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 25.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "Teología",
+    "link": "https://admision.uc.cl/carreras/teologia/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 4830000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 546.0,
+    "vacantes": 10,
+    "ponderaciones": {
+      "nem": 25.0,
+      "ranking": 25.0,
+      "compLectora": 25.0,
+      "mat1": 10.0,
+      "historia": 15.0
+    }
+  },
+  {
+    "nombre": "Terapia Ocupacional",
+    "link": "https://admision.uc.cl/carreras/terapia-ocupacional/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6958000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 746.8,
+    "vacantes": 75,
+    "ponderaciones": {
+      "nem": 20.0,
+      "ranking": 20.0,
+      "compLectora": 20.0,
+      "mat1": 20.0,
+      "ciencias": 20.0
+    }
+  },
+  {
+    "nombre": "Trabajo Social",
+    "link": "https://admision.uc.cl/carreras/trabajo-social/",
+    "area": "",
+    "subArea": "",
+    "duracion": 10,
+    "arancel": 6006000,
+    "puntaje_minimo": 485.0,
+    "puntaje_ultimo": 690.4,
+    "vacantes": 70,
+    "ponderaciones": {
+      "nem": 25.0,
+      "ranking": 25.0,
+      "compLectora": 15.0,
+      "mat1": 15.0,
+      "historia": 20.0
+    }
+  }
+]

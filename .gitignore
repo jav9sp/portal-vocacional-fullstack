@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+env_scrapers_carreras/
+
+# VSCode & Astro
+portal-vocacional-frontend/.astro/
+portal-vocacional-frontend/.vscode/
+
+# General
+.DS_Store
