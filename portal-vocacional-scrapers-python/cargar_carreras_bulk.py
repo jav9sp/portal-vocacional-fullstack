@@ -36,4 +36,5 @@ if __name__ == "__main__":
         # ? Falta agregar áreas a las carreras
         for carrera in carreras:
             carrera["area"] = "No indicada"
+            print(carrera)
         enviar_carreras_al_backend(carreras)

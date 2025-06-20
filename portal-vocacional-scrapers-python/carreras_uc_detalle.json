@@ -2,8 +2,6 @@
   {
     "nombre": "Actuación",
     "link": "https://admision.uc.cl/carreras/actuacion/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 6008000,
     "puntaje_minimo": 485.0,
@@ -15,13 +13,15 @@
       "compLectora": 16.0,
       "mat1": 10.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus Oriente",
+      "direccion": "Avda. Jaime Guzmán Errázuriz 3300, Providencia"
     }
   },
   {
     "nombre": "Administración Pública",
     "link": "https://admision.uc.cl/carreras/administracion-publica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6482000,
     "puntaje_minimo": 485.0,
@@ -33,13 +33,15 @@
       "compLectora": 20.0,
       "mat1": 30.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Agronomía",
     "link": "https://admision.uc.cl/carreras/agronomia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7548000,
     "puntaje_minimo": 485.0,
@@ -51,13 +53,15 @@
       "compLectora": 10.0,
       "mat1": 30.0,
       "ciencias": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Antropología",
     "link": "https://admision.uc.cl/carreras/antropologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7018000,
     "puntaje_minimo": 485.0,
@@ -69,13 +73,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna, 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Arqueología",
     "link": "https://admision.uc.cl/carreras/arqueologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7018000,
     "puntaje_minimo": 485.0,
@@ -87,13 +93,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Arquitectura",
     "link": "https://admision.uc.cl/carreras/arquitectura/",
-    "area": "",
-    "subArea": "",
     "duracion": 11,
     "vacantes": 136,
     "puntaje_minimo": 485.0,
@@ -105,13 +113,15 @@
       "compLectora": 15.0,
       "mat1": 35.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus Lo Contador",
+      "direccion": "El Comendador 1916, Providencia, Santiago"
     }
   },
   {
     "nombre": "Arte",
     "link": "https://admision.uc.cl/carreras/arte/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -123,13 +133,15 @@
       "compLectora": 20.0,
       "mat1": 15.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus Oriente",
+      "direccion": "Avda. Jaime Guzmán Errázuriz 3300, Providencia"
     }
   },
   {
     "nombre": "Astronomía",
     "link": "https://admision.uc.cl/carreras/astronomia/",
-    "area": "",
-    "subArea": "",
     "duracion": 9,
     "arancel": 6186000,
     "puntaje_minimo": 485.0,
@@ -141,43 +153,51 @@
       "compLectora": 10.0,
       "mat1": 35.0,
       "ciencias": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Bachillerato Inicia en Ciencias Naturales y Matemática",
     "link": "https://admision.uc.cl/carreras/bachillerato-en-ciencias-naturales-y-matematica/",
-    "area": "",
-    "subArea": "",
     "duracion": 4,
     "vacantes": 75,
     "arancel": 6356000,
-    "ponderaciones": {}
+    "ponderaciones": {},
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
+    }
   },
   {
     "nombre": "Bachillerato Inicia en Ciencias Sociales",
     "link": "https://admision.uc.cl/carreras/bachillerato-inicia-en-ciencias-sociales/",
-    "area": "",
-    "subArea": "",
     "duracion": 4,
     "vacantes": 50,
     "arancel": 6356000,
-    "ponderaciones": {}
+    "ponderaciones": {},
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
+    }
   },
   {
     "nombre": "Bachillerato Inicia en Ciencias Sociales - Campus Villarrica",
     "link": "https://admision.uc.cl/carreras/bachillerato-inicia-en-ciencias-sociales-campus-villarrica/",
-    "area": "",
-    "subArea": "",
     "duracion": 4,
     "vacantes": 25,
     "arancel": 6356000,
-    "ponderaciones": {}
+    "ponderaciones": {},
+    "sede": {
+      "campus": "Campus Villarrica",
+      "direccion": "O´Higgins 501, Villarrica"
+    }
   },
   {
     "nombre": "Biología",
     "link": "https://admision.uc.cl/carreras/biologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 5286000,
     "puntaje_minimo": 485.0,
@@ -189,13 +209,15 @@
       "compLectora": 10.0,
       "mat1": 25.0,
       "ciencias": 25.0
+    },
+    "sede": {
+      "campus": "Campus Casa Central",
+      "direccion": "Av. General Libertador Bernardo O'Higgins 340, Santiago"
     }
   },
   {
     "nombre": "Biología Marina",
     "link": "https://admision.uc.cl/carreras/biologia-marina/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7018000,
     "puntaje_minimo": 485.0,
@@ -207,13 +229,15 @@
       "compLectora": 10.0,
       "mat1": 25.0,
       "ciencias": 25.0
+    },
+    "sede": {
+      "campus": "Campus Casa Central",
+      "direccion": "Av. General Libertador Bernardo O'Higgins 340, Santiago"
     }
   },
   {
     "nombre": "Bioquímica",
     "link": "https://admision.uc.cl/carreras/bioquimica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7018000,
     "puntaje_minimo": 485.0,
@@ -225,13 +249,15 @@
       "compLectora": 10.0,
       "mat1": 30.0,
       "ciencias": 20.0
+    },
+    "sede": {
+      "campus": "Campus Casa Central",
+      "direccion": "Av. General Libertador Bernardo O'Higgins 340, Santiago"
     }
   },
   {
     "nombre": "Ciencia Política",
     "link": "https://admision.uc.cl/carreras/ciencia-politica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6724000,
     "puntaje_minimo": 485.0,
@@ -243,13 +269,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "College Artes y Humanidades",
     "link": "https://admision.uc.cl/carreras/college-artes-y-humanidades/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 7752000,
     "puntaje_minimo": 485.0,
@@ -261,13 +289,15 @@
       "compLectora": 25.0,
       "mat1": 25.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "College Ciencias Naturales y Matemáticas",
     "link": "https://admision.uc.cl/carreras/college-ciencias-naturales-y-matematicas/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 8828000,
     "puntaje_minimo": 485.0,
@@ -279,13 +309,15 @@
       "compLectora": 10.0,
       "mat1": 35.0,
       "ciencias": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "College Ciencias Sociales",
     "link": "https://admision.uc.cl/carreras/college-ciencias-sociales/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 7752000,
     "puntaje_minimo": 485.0,
@@ -297,13 +329,15 @@
       "compLectora": 25.0,
       "mat1": 25.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Construcción Civil",
     "link": "https://admision.uc.cl/carreras/construccion-civil/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7548000,
     "puntaje_minimo": 485.0,
@@ -315,13 +349,15 @@
       "compLectora": 10.0,
       "mat1": 40.0,
       "ciencias": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Derecho",
     "link": "https://admision.uc.cl/carreras/derecho/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7752000,
     "puntaje_minimo": 485.0,
@@ -333,13 +369,15 @@
       "compLectora": 25.0,
       "mat1": 10.0,
       "historia": 25.0
+    },
+    "sede": {
+      "campus": "Campus Casa Central",
+      "direccion": "Av. General Libertador Bernardo O'Higgins 340, Santiago"
     }
   },
   {
     "nombre": "Dirección Audiovisual",
     "link": "https://admision.uc.cl/carreras/direccion-audiovisual/",
-    "area": "",
-    "subArea": "",
     "duracion": 9,
     "arancel": 7548000,
     "puntaje_minimo": 485.0,
@@ -351,13 +389,15 @@
       "compLectora": 25.0,
       "mat1": 20.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus Casa Central",
+      "direccion": "Av. General Libertador Bernardo O'Higgins 340, Santiago"
     }
   },
   {
     "nombre": "Diseño",
     "link": "https://admision.uc.cl/carreras/diseno/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "vacantes": 178,
     "puntaje_minimo": 485.0,
@@ -369,13 +409,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus Lo Contador",
+      "direccion": "El Comendador 1916, Providencia, Santiago"
     }
   },
   {
     "nombre": "Enfermería",
     "link": "https://admision.uc.cl/carreras/enfermeria/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6246000,
     "puntaje_minimo": 485.0,
@@ -387,13 +429,15 @@
       "compLectora": 10.0,
       "mat1": 20.0,
       "ciencias": 25.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Estadística",
     "link": "https://admision.uc.cl/carreras/estadistica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 5786000,
     "puntaje_minimo": 485.0,
@@ -406,22 +450,26 @@
       "mat1": 45.0,
       "ciencias": 10.0,
       "mat2": 5.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Estética",
     "link": "https://admision.uc.cl/carreras/estetica/",
-    "area": "",
-    "subArea": "",
     "duracion": 4,
     "arancel": 5286000,
-    "ponderaciones": {}
+    "ponderaciones": {},
+    "sede": {
+      "campus": "Campus Oriente",
+      "direccion": "Avda. Jaime Guzmán Errázuriz 3.300, Providencia, Santiago"
+    }
   },
   {
     "nombre": "Filosofía",
     "link": "https://admision.uc.cl/carreras/filosofia/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -433,13 +481,15 @@
       "compLectora": 25.0,
       "mat1": 15.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Física",
     "link": "https://admision.uc.cl/carreras/fisica/",
-    "area": "",
-    "subArea": "",
     "duracion": 9,
     "arancel": 5638000,
     "puntaje_minimo": 485.0,
@@ -451,13 +501,15 @@
       "compLectora": 10.0,
       "mat1": 45.0,
       "ciencias": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Fonoaudiología",
     "link": "https://admision.uc.cl/carreras/fonoaudiologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6246000,
     "puntaje_minimo": 485.0,
@@ -469,13 +521,15 @@
       "compLectora": 10.0,
       "mat1": 20.0,
       "ciencias": 25.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Geografía",
     "link": "https://admision.uc.cl/carreras/geografia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "vacantes": 50,
     "puntaje_minimo": 485.0,
@@ -487,13 +541,15 @@
       "compLectora": 20.0,
       "mat1": 25.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Historia",
     "link": "https://admision.uc.cl/carreras/historia/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 5286000,
     "puntaje_minimo": 485.0,
@@ -505,13 +561,15 @@
       "compLectora": 15.0,
       "mat1": 10.0,
       "historia": 35.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Ingeniería",
     "link": "https://admision.uc.cl/carreras/ingenieria/",
-    "area": "",
-    "subArea": "",
     "duracion": 11,
     "arancel": 9498000,
     "puntaje_minimo": 485.0,
@@ -524,13 +582,15 @@
       "mat1": 25.0,
       "ciencias": 15.0,
       "mat2": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Ingeniería Comercial",
     "link": "https://admision.uc.cl/carreras/ingenieria-comercial/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "vacantes": 418,
     "puntaje_minimo": 485.0,
@@ -542,13 +602,15 @@
       "compLectora": 10.0,
       "mat1": 30.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Ingeniería en Recursos Naturales",
     "link": "https://admision.uc.cl/carreras/ingenieria-en-recursos-naturales/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7548000,
     "puntaje_minimo": 485.0,
@@ -561,13 +623,15 @@
       "mat1": 25.0,
       "ciencias": 15.0,
       "mat2": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Ingeniería Forestal",
     "link": "https://admision.uc.cl/carreras/ingenieria-forestal/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7548000,
     "puntaje_minimo": 485.0,
@@ -579,13 +643,15 @@
       "compLectora": 10.0,
       "mat1": 30.0,
       "ciencias": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Interpretación Musical",
     "link": "https://admision.uc.cl/carreras/interpretacion-musical/",
-    "area": "",
-    "subArea": "",
     "duracion": 12,
     "vacantes": 15,
     "puntaje_minimo": 485.0,
@@ -597,13 +663,15 @@
       "compLectora": 12.0,
       "mat1": 14.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus Oriente",
+      "direccion": "Avda. Jaime Guzmán Errázuriz 3.300, Providencia, Santiago"
     }
   },
   {
     "nombre": "Kinesiología",
     "link": "https://admision.uc.cl/carreras/kinesiologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6830000,
     "puntaje_minimo": 485.0,
@@ -615,13 +683,15 @@
       "compLectora": 10.0,
       "mat1": 20.0,
       "ciencias": 25.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Letras Hispánicas",
     "link": "https://admision.uc.cl/carreras/letras-hispanicas/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 5286000,
     "puntaje_minimo": 485.0,
@@ -633,13 +703,15 @@
       "compLectora": 25.0,
       "mat1": 15.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Letras Inglesas",
     "link": "https://admision.uc.cl/carreras/letras-inglesas/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 5286000,
     "puntaje_minimo": 485.0,
@@ -651,13 +723,15 @@
       "compLectora": 25.0,
       "mat1": 15.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Licenciatura en Ingeniería en Ciencia de Datos",
     "link": "https://admision.uc.cl/carreras/licenciatura-en-ingenieria-en-ciencia-de-datos/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 8320000,
     "puntaje_minimo": 485.0,
@@ -670,13 +744,15 @@
       "mat1": 30.0,
       "ciencias": 10.0,
       "mat2": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Licenciatura en Ingeniería en Ciencia de la Computación",
     "link": "https://admision.uc.cl/carreras/licenciatura-en-ingenieria-en-ciencia-de-la-computacion/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "puntaje_minimo": 485.0,
     "arancel": 8828000,
@@ -689,13 +765,15 @@
       "mat1": 25.0,
       "ciencias": 15.0,
       "mat2": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Matemática",
     "link": "https://admision.uc.cl/carreras/matematica/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "arancel": 5786000,
     "puntaje_minimo": 485.0,
@@ -707,13 +785,15 @@
       "compLectora": 10.0,
       "mat1": 45.0,
       "ciencias": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Medicina",
     "link": "https://admision.uc.cl/carreras/medicina/",
-    "area": "",
-    "subArea": "",
     "duracion": 12,
     "arancel": 9930000,
     "puntaje_minimo": 485.0,
@@ -725,13 +805,15 @@
       "compLectora": 15.0,
       "mat1": 20.0,
       "ciencias": 25.0
+    },
+    "sede": {
+      "campus": "Campus Casa Central",
+      "direccion": "Av. General Libertador Bernardo O'Higgins 340, Santiago"
     }
   },
   {
     "nombre": "Medicina Veterinaria",
     "link": "https://admision.uc.cl/carreras/medicina-veterinaria/",
-    "area": "",
-    "subArea": "",
     "duracion": 12,
     "arancel": 7548000,
     "puntaje_minimo": 485.0,
@@ -743,13 +825,15 @@
       "compLectora": 20.0,
       "mat1": 25.0,
       "ciencias": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Música",
     "link": "https://admision.uc.cl/carreras/musica/",
-    "area": "",
-    "subArea": "",
     "duracion": 8,
     "vacantes": 25,
     "puntaje_minimo": 485.0,
@@ -761,13 +845,15 @@
       "compLectora": 12.0,
       "mat1": 14.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus Oriente",
+      "direccion": "Avda. Jaime Guzmán Errázuriz 3.300, Providencia, Santiago"
     }
   },
   {
     "nombre": "Nutrición y Dietética",
     "link": "https://admision.uc.cl/carreras/nutricion-y-dietetica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 5972000,
     "puntaje_minimo": 485.0,
@@ -779,13 +865,15 @@
       "compLectora": 10.0,
       "mat1": 20.0,
       "ciencias": 25.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Odontología",
     "link": "https://admision.uc.cl/carreras/odontologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 12,
     "arancel": 9930000,
     "puntaje_minimo": 485.0,
@@ -797,13 +885,15 @@
       "compLectora": 10.0,
       "mat1": 20.0,
       "ciencias": 25.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Av. Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Educación Especial",
     "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-especial/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -815,13 +905,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 20.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Educación Física y Salud para Educación Básica y Media",
     "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-fisica-y-salud-para-educacion-basica-y-media/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -833,13 +925,15 @@
       "compLectora": 10.0,
       "mat1": 30.0,
       "ciencias": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Educación General Básica - Santiago",
     "link": "https://admision.uc.cl/carreras/pedagogia-general-basica-santiago/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "vacantes": 150,
     "puntaje_minimo": 485.0,
@@ -851,22 +945,26 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Educación Media",
     "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-media/",
-    "area": "",
-    "subArea": "",
     "duracion": 2,
     "arancel": 6006000,
-    "ponderaciones": {}
+    "ponderaciones": {},
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
+    }
   },
   {
     "nombre": "Pedagogía en Educación Media en Ciencias Naturales y Biología",
     "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-media-en-ciencias-naturales-y-biologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -878,13 +976,15 @@
       "compLectora": 10.0,
       "mat1": 40.0,
       "ciencias": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Av. Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Educación Media en Física",
     "link": "https://admision.uc.cl/carreras/pedagogia-media-en-fisica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -896,13 +996,15 @@
       "compLectora": 10.0,
       "mat1": 40.0,
       "ciencias": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Av. Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Educación Media en Matemática",
     "link": "https://admision.uc.cl/carreras/pedagogia-media-en-matematica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -915,13 +1017,15 @@
       "mat1": 35.0,
       "ciencias": 10.0,
       "mat2": 5.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Av. Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Educación Media en Química",
     "link": "https://admision.uc.cl/carreras/pedagogia-media-en-quimica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -933,13 +1037,15 @@
       "compLectora": 10.0,
       "mat1": 40.0,
       "ciencias": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Av. Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Educación Parvularia - Santiago",
     "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-parvularia-santiago/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "vacantes": 80,
     "puntaje_minimo": 485.0,
@@ -951,13 +1057,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Av. Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Educación Parvularia - Villarrica",
     "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-parvularia-villarrica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "vacantes": 35,
     "puntaje_minimo": 485.0,
@@ -969,13 +1077,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus Villarrica",
+      "direccion": "Ohiggins 501, Villarrica"
     }
   },
   {
     "nombre": "Pedagogía en Inglés para Educación Básica y Media",
     "link": "https://admision.uc.cl/carreras/pedagogia-en-ingles-para-educacion-basica-y-media/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -987,25 +1097,29 @@
       "compLectora": 30.0,
       "mat1": 20.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Av. Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Pedagogía en Religión Católica",
     "link": "https://admision.uc.cl/carreras/pedagogia-en-religion-catolica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "vacantes": 2024,
     "puntaje_minimo": 2025.0,
     "puntaje_ultimo": 617.6,
     "arancel": 3902000,
-    "ponderaciones": {}
+    "ponderaciones": {},
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Av. Vicuña Mackenna 4860, Macul, Santiago"
+    }
   },
   {
     "nombre": "Pedagogía General Básica - Campus Villarrica",
     "link": "https://admision.uc.cl/carreras/pedagogia-general-basica-campus-villarrica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "vacantes": 35,
     "puntaje_minimo": 485.0,
@@ -1017,13 +1131,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 10.0
+    },
+    "sede": {
+      "campus": "Campus Villarrica",
+      "direccion": "O'Higgins 501, Villarrica"
     }
   },
   {
     "nombre": "Periodismo",
     "link": "https://admision.uc.cl/carreras/periodismo/",
-    "area": "",
-    "subArea": "",
     "duracion": 9,
     "arancel": 7548000,
     "puntaje_minimo": 485.0,
@@ -1035,22 +1151,26 @@
       "compLectora": 25.0,
       "mat1": 20.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus Casa Central",
+      "direccion": "Av. General Libertador Bernardo O'Higgins 340, Santiago"
     }
   },
   {
     "nombre": "Planificación Urbana",
     "link": "https://admision.uc.cl/carreras/planificacion-urbana/",
-    "area": "",
-    "subArea": "",
     "duracion": 11,
     "arancel": 7892000,
-    "ponderaciones": {}
+    "ponderaciones": {},
+    "sede": {
+      "campus": "Campus Lo Contador",
+      "direccion": "El Comendador 1916, Providencia, Santiago"
+    }
   },
   {
     "nombre": "Psicología",
     "link": "https://admision.uc.cl/carreras/psicologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "vacantes": 125,
     "puntaje_minimo": 485.0,
@@ -1062,13 +1182,15 @@
       "compLectora": 10.0,
       "mat1": 20.0,
       "historia": 20.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Publicidad",
     "link": "https://admision.uc.cl/carreras/publicidad/",
-    "area": "",
-    "subArea": "",
     "duracion": 9,
     "arancel": 7548000,
     "puntaje_minimo": 485.0,
@@ -1080,13 +1202,15 @@
       "compLectora": 25.0,
       "mat1": 20.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus Casa Central",
+      "direccion": "Av. General Libertador Bernardo O'Higgins 340, Santiago"
     }
   },
   {
     "nombre": "Química",
     "link": "https://admision.uc.cl/carreras/quimica/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6186000,
     "puntaje_minimo": 485.0,
@@ -1098,13 +1222,15 @@
       "compLectora": 10.0,
       "mat1": 35.0,
       "ciencias": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Química y Farmacia",
     "link": "https://admision.uc.cl/carreras/quimica-y-farmacia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -1116,13 +1242,15 @@
       "compLectora": 10.0,
       "mat1": 35.0,
       "ciencias": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Sociología",
     "link": "https://admision.uc.cl/carreras/sociologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 7018000,
     "puntaje_minimo": 485.0,
@@ -1134,13 +1262,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Teología",
     "link": "https://admision.uc.cl/carreras/teologia/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 4830000,
     "puntaje_minimo": 485.0,
@@ -1152,13 +1282,15 @@
       "compLectora": 25.0,
       "mat1": 10.0,
       "historia": 15.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Terapia Ocupacional",
     "link": "https://admision.uc.cl/carreras/terapia-ocupacional/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6958000,
     "puntaje_minimo": 485.0,
@@ -1170,13 +1302,15 @@
       "compLectora": 20.0,
       "mat1": 20.0,
       "ciencias": 20.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   },
   {
     "nombre": "Trabajo Social",
     "link": "https://admision.uc.cl/carreras/trabajo-social/",
-    "area": "",
-    "subArea": "",
     "duracion": 10,
     "arancel": 6006000,
     "puntaje_minimo": 485.0,
@@ -1188,6 +1322,10 @@
       "compLectora": 15.0,
       "mat1": 15.0,
       "historia": 20.0
+    },
+    "sede": {
+      "campus": "Campus San Joaquín",
+      "direccion": "Vicuña Mackenna 4860, Macul, Santiago"
     }
   }
 ]

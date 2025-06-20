@@ -10,7 +10,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Configuración del navegador
 options = Options()
 options.add_argument('--headless')
 options.add_argument('--no-sandbox')
@@ -18,40 +17,8 @@ options.add_argument('--disable-dev-shm-usage')
 driver = webdriver.Chrome(service=Service(
     ChromeDriverManager().install()), options=options)
 
-# ==========================
-# 1. Extraer listado de carreras
-# ==========================
-
-print("🔄 Cargando listado de carreras UC...")
-driver.get("https://admision.uc.cl/carreras/")
-WebDriverWait(driver, 10).until(
-    EC.presence_of_element_located((By.CSS_SELECTOR, ".uc-card_body"))
-)
-time.sleep(1)
-
-soup = BeautifulSoup(driver.page_source, "html.parser")
-cards = soup.select(".uc-card_body")
-
-carreras = []
-for card in cards:
-    a_tag = card.select_one("a.color-black")
-    if not a_tag:
-        continue
-    nombre = a_tag.get_text(strip=True)
-    href = a_tag["href"]
-    link = href if href.startswith("http") else f"https://admision.uc.cl{href}"
-    carreras.append({
-        "nombre": nombre,
-        "link": link,
-        "area": "",     # Puedes completarlo manual o desde facultades si lo deseas
-        "subArea": ""
-    })
-
-print(f"✅ {len(carreras)} carreras encontradas.")
-
-# ==========================
-# 2. Scrapeo de detalles por carrera
-# ==========================
+with open("carreras_uc_links.json", "r", encoding="utf-8") as f:
+    carreras = json.load(f)
 
 detalles = []
 
@@ -67,9 +34,7 @@ for carrera in carreras:
 
         data = {
             "nombre": carrera["nombre"],
-            "link": carrera["link"],
-            "area": carrera.get("area", ""),
-            "subArea": carrera.get("subArea", "")
+            "link": carrera["link"]
         }
 
         # INFO GENERAL
@@ -78,11 +43,8 @@ for carrera in carreras:
             label = item.find("b")
             if not label:
                 continue
-
-            # Eliminar íconos que agregan basura textual
             for icon in item.select("i"):
                 icon.decompose()
-
             label_text = label.get_text(strip=True).lower()
             full_text = item.get_text(separator=" ", strip=True)
             value = full_text.split(":", 1)[-1].strip()
@@ -91,24 +53,20 @@ for carrera in carreras:
                 match = re.search(r"\d+", value)
                 if match:
                     data["duracion"] = int(match.group(0))
-
             elif "arancel anual" in label_text:
                 match = re.search(r"[\d\.]+", value)
                 if match:
                     data["arancel"] = int(match.group(0).replace(".", ""))
-
             elif "puntaje promedio mínimo" in label_text:
                 match = re.search(r"\d+[\.,]?\d*", value)
                 if match:
                     data["puntaje_minimo"] = float(
                         match.group(0).replace(",", "."))
-
             elif "puntaje último" in label_text:
                 match = re.search(r"\d+[\.,]?\d*", value)
                 if match:
                     data["puntaje_ultimo"] = float(
                         match.group(0).replace(",", "."))
-
             elif "vacantes" in label_text:
                 match = re.search(r"\d+", value)
                 if match:
@@ -128,7 +86,6 @@ for carrera in carreras:
                 valor = float(valor)
             except ValueError:
                 continue
-
             if "nem" in nombre:
                 ponderaciones["nem"] = valor
             elif "ranking" in nombre:
@@ -146,40 +103,29 @@ for carrera in carreras:
 
         data["ponderaciones"] = ponderaciones
 
-        # UBICACIÓN / SEDE
-        ubicaciones = []
+        # SEDE / CAMPUS
+        h4 = soup.find(
+            "h4", string=lambda t: t and "encuéntranos en" in t.lower() or "encuéntrenos en" in t.lower() or "encuèntranos en" in t.lower())
+        ul = h4.find_next("ul")
+        li = ul.find("li")
+        div = li.find("div")
+        campus = div.find("b")
+        direccion_tag = div.find("a") or div.find("p")
 
-        encontranos_h4 = soup.find(
-            "h4", string=lambda t: t and "ENCUÉNTRANOS EN" in t)
-        if encontranos_h4:
-            ul = encontranos_h4.find_next("ul")
-            if ul:
-                for li in ul.select("li"):
-                    if li.select_one("i.uc-icon") and "location_on" in li.select_one("i.uc-icon").text:
-                        nombre = li.find("b")
-                        direccion = li.find("a")
-                        if nombre and direccion:
-                            ubicaciones.append({
-                                "campus": nombre.get_text(strip=True),
-                                "direccion": direccion.get_text(strip=True)
-                            })
-
-        if ubicaciones:
-            data["sedes"] = ubicaciones
+        if campus and direccion_tag:
+            data["sede"] = {
+                "campus": campus.get_text(strip=True),
+                "direccion": direccion_tag.get_text(strip=True)
+            }
 
         detalles.append(data)
 
     except ValueError as e:
-        print(f"❌ Error en carrera {carrera['nombre']}: {str(e)}")
+        print(f"❌ Error en {carrera['nombre']}: {e}")
 
 driver.quit()
-
-# ==========================
-# Guardar los datos
-# ==========================
 
 with open("carreras_uc_detalle.json", "w", encoding="utf-8") as f:
     json.dump(detalles, f, ensure_ascii=False, indent=2)
 
-print(
-    f"📁 Archivo generado: carreras_uc_detalle.json con {len(detalles)} carreras.")
+print(f"✅ {len(detalles)} carreras procesadas y guardadas en carreras_uc_detalle.json")

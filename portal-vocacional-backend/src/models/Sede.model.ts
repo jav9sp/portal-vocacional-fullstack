@@ -27,6 +27,9 @@ class Sede extends Model {
   institucion: Institucion;
 
   @Column({ allowNull: false, type: DataType.STRING })
+  nombre: string;
+
+  @Column({ allowNull: false, type: DataType.STRING })
   region: string;
 
   @Column({ allowNull: false, type: DataType.STRING })

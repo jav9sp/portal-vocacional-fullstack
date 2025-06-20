@@ -1,416 +1,278 @@
 [
   {
     "nombre": "Actuación",
-    "link": "https://admision.uc.cl/carreras/actuacion/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/actuacion/"
   },
   {
     "nombre": "Administración Pública",
-    "link": "https://admision.uc.cl/carreras/administracion-publica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/administracion-publica/"
   },
   {
     "nombre": "Agronomía",
-    "link": "https://admision.uc.cl/carreras/agronomia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/agronomia/"
   },
   {
     "nombre": "Antropología",
-    "link": "https://admision.uc.cl/carreras/antropologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/antropologia/"
   },
   {
     "nombre": "Arqueología",
-    "link": "https://admision.uc.cl/carreras/arqueologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/arqueologia/"
   },
   {
     "nombre": "Arquitectura",
-    "link": "https://admision.uc.cl/carreras/arquitectura/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/arquitectura/"
   },
   {
     "nombre": "Arte",
-    "link": "https://admision.uc.cl/carreras/arte/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/arte/"
   },
   {
     "nombre": "Astronomía",
-    "link": "https://admision.uc.cl/carreras/astronomia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/astronomia/"
   },
   {
     "nombre": "Bachillerato Inicia en Ciencias Naturales y Matemática",
-    "link": "https://admision.uc.cl/carreras/bachillerato-en-ciencias-naturales-y-matematica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/bachillerato-en-ciencias-naturales-y-matematica/"
   },
   {
     "nombre": "Bachillerato Inicia en Ciencias Sociales",
-    "link": "https://admision.uc.cl/carreras/bachillerato-inicia-en-ciencias-sociales/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/bachillerato-inicia-en-ciencias-sociales/"
   },
   {
     "nombre": "Bachillerato Inicia en Ciencias Sociales - Campus Villarrica",
-    "link": "https://admision.uc.cl/carreras/bachillerato-inicia-en-ciencias-sociales-campus-villarrica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/bachillerato-inicia-en-ciencias-sociales-campus-villarrica/"
   },
   {
     "nombre": "Biología",
-    "link": "https://admision.uc.cl/carreras/biologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/biologia/"
   },
   {
     "nombre": "Biología Marina",
-    "link": "https://admision.uc.cl/carreras/biologia-marina/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/biologia-marina/"
   },
   {
     "nombre": "Bioquímica",
-    "link": "https://admision.uc.cl/carreras/bioquimica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/bioquimica/"
   },
   {
     "nombre": "Ciencia Política",
-    "link": "https://admision.uc.cl/carreras/ciencia-politica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/ciencia-politica/"
   },
   {
     "nombre": "College Artes y Humanidades",
-    "link": "https://admision.uc.cl/carreras/college-artes-y-humanidades/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/college-artes-y-humanidades/"
   },
   {
     "nombre": "College Ciencias Naturales y Matemáticas",
-    "link": "https://admision.uc.cl/carreras/college-ciencias-naturales-y-matematicas/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/college-ciencias-naturales-y-matematicas/"
   },
   {
     "nombre": "College Ciencias Sociales",
-    "link": "https://admision.uc.cl/carreras/college-ciencias-sociales/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/college-ciencias-sociales/"
   },
   {
     "nombre": "Construcción Civil",
-    "link": "https://admision.uc.cl/carreras/construccion-civil/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/construccion-civil/"
   },
   {
     "nombre": "Derecho",
-    "link": "https://admision.uc.cl/carreras/derecho/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/derecho/"
   },
   {
     "nombre": "Dirección Audiovisual",
-    "link": "https://admision.uc.cl/carreras/direccion-audiovisual/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/direccion-audiovisual/"
   },
   {
     "nombre": "Diseño",
-    "link": "https://admision.uc.cl/carreras/diseno/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/diseno/"
   },
   {
     "nombre": "Enfermería",
-    "link": "https://admision.uc.cl/carreras/enfermeria/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/enfermeria/"
   },
   {
     "nombre": "Estadística",
-    "link": "https://admision.uc.cl/carreras/estadistica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/estadistica/"
   },
   {
     "nombre": "Estética",
-    "link": "https://admision.uc.cl/carreras/estetica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/estetica/"
   },
   {
     "nombre": "Filosofía",
-    "link": "https://admision.uc.cl/carreras/filosofia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/filosofia/"
   },
   {
     "nombre": "Física",
-    "link": "https://admision.uc.cl/carreras/fisica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/fisica/"
   },
   {
     "nombre": "Fonoaudiología",
-    "link": "https://admision.uc.cl/carreras/fonoaudiologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/fonoaudiologia/"
   },
   {
     "nombre": "Geografía",
-    "link": "https://admision.uc.cl/carreras/geografia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/geografia/"
   },
   {
     "nombre": "Historia",
-    "link": "https://admision.uc.cl/carreras/historia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/historia/"
   },
   {
     "nombre": "Ingeniería",
-    "link": "https://admision.uc.cl/carreras/ingenieria/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/ingenieria/"
   },
   {
     "nombre": "Ingeniería Comercial",
-    "link": "https://admision.uc.cl/carreras/ingenieria-comercial/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/ingenieria-comercial/"
   },
   {
     "nombre": "Ingeniería en Recursos Naturales",
-    "link": "https://admision.uc.cl/carreras/ingenieria-en-recursos-naturales/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/ingenieria-en-recursos-naturales/"
   },
   {
     "nombre": "Ingeniería Forestal",
-    "link": "https://admision.uc.cl/carreras/ingenieria-forestal/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/ingenieria-forestal/"
   },
   {
     "nombre": "Interpretación Musical",
-    "link": "https://admision.uc.cl/carreras/interpretacion-musical/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/interpretacion-musical/"
   },
   {
     "nombre": "Kinesiología",
-    "link": "https://admision.uc.cl/carreras/kinesiologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/kinesiologia/"
   },
   {
     "nombre": "Letras Hispánicas",
-    "link": "https://admision.uc.cl/carreras/letras-hispanicas/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/letras-hispanicas/"
   },
   {
     "nombre": "Letras Inglesas",
-    "link": "https://admision.uc.cl/carreras/letras-inglesas/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/letras-inglesas/"
   },
   {
     "nombre": "Licenciatura en Ingeniería en Ciencia de Datos",
-    "link": "https://admision.uc.cl/carreras/licenciatura-en-ingenieria-en-ciencia-de-datos/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/licenciatura-en-ingenieria-en-ciencia-de-datos/"
   },
   {
     "nombre": "Licenciatura en Ingeniería en Ciencia de la Computación",
-    "link": "https://admision.uc.cl/carreras/licenciatura-en-ingenieria-en-ciencia-de-la-computacion/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/licenciatura-en-ingenieria-en-ciencia-de-la-computacion/"
   },
   {
     "nombre": "Matemática",
-    "link": "https://admision.uc.cl/carreras/matematica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/matematica/"
   },
   {
     "nombre": "Medicina",
-    "link": "https://admision.uc.cl/carreras/medicina/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/medicina/"
   },
   {
     "nombre": "Medicina Veterinaria",
-    "link": "https://admision.uc.cl/carreras/medicina-veterinaria/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/medicina-veterinaria/"
   },
   {
     "nombre": "Música",
-    "link": "https://admision.uc.cl/carreras/musica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/musica/"
   },
   {
     "nombre": "Nutrición y Dietética",
-    "link": "https://admision.uc.cl/carreras/nutricion-y-dietetica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/nutricion-y-dietetica/"
   },
   {
     "nombre": "Odontología",
-    "link": "https://admision.uc.cl/carreras/odontologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/odontologia/"
   },
   {
     "nombre": "Pedagogía en Educación Especial",
-    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-especial/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-especial/"
   },
   {
     "nombre": "Pedagogía en Educación Física y Salud para Educación Básica y Media",
-    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-fisica-y-salud-para-educacion-basica-y-media/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-fisica-y-salud-para-educacion-basica-y-media/"
   },
   {
     "nombre": "Pedagogía en Educación General Básica - Santiago",
-    "link": "https://admision.uc.cl/carreras/pedagogia-general-basica-santiago/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-general-basica-santiago/"
   },
   {
     "nombre": "Pedagogía en Educación Media",
-    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-media/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-media/"
   },
   {
     "nombre": "Pedagogía en Educación Media en Ciencias Naturales y Biología",
-    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-media-en-ciencias-naturales-y-biologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-media-en-ciencias-naturales-y-biologia/"
   },
   {
     "nombre": "Pedagogía en Educación Media en Física",
-    "link": "https://admision.uc.cl/carreras/pedagogia-media-en-fisica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-media-en-fisica/"
   },
   {
     "nombre": "Pedagogía en Educación Media en Matemática",
-    "link": "https://admision.uc.cl/carreras/pedagogia-media-en-matematica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-media-en-matematica/"
   },
   {
     "nombre": "Pedagogía en Educación Media en Química",
-    "link": "https://admision.uc.cl/carreras/pedagogia-media-en-quimica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-media-en-quimica/"
   },
   {
     "nombre": "Pedagogía en Educación Parvularia - Santiago",
-    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-parvularia-santiago/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-parvularia-santiago/"
   },
   {
     "nombre": "Pedagogía en Educación Parvularia - Villarrica",
-    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-parvularia-villarrica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-educacion-parvularia-villarrica/"
   },
   {
     "nombre": "Pedagogía en Inglés para Educación Básica y Media",
-    "link": "https://admision.uc.cl/carreras/pedagogia-en-ingles-para-educacion-basica-y-media/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-ingles-para-educacion-basica-y-media/"
   },
   {
     "nombre": "Pedagogía en Religión Católica",
-    "link": "https://admision.uc.cl/carreras/pedagogia-en-religion-catolica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-en-religion-catolica/"
   },
   {
     "nombre": "Pedagogía General Básica - Campus Villarrica",
-    "link": "https://admision.uc.cl/carreras/pedagogia-general-basica-campus-villarrica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/pedagogia-general-basica-campus-villarrica/"
   },
   {
     "nombre": "Periodismo",
-    "link": "https://admision.uc.cl/carreras/periodismo/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/periodismo/"
   },
   {
     "nombre": "Planificación Urbana",
-    "link": "https://admision.uc.cl/carreras/planificacion-urbana/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/planificacion-urbana/"
   },
   {
     "nombre": "Psicología",
-    "link": "https://admision.uc.cl/carreras/psicologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/psicologia/"
   },
   {
     "nombre": "Publicidad",
-    "link": "https://admision.uc.cl/carreras/publicidad/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/publicidad/"
   },
   {
     "nombre": "Química",
-    "link": "https://admision.uc.cl/carreras/quimica/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/quimica/"
   },
   {
     "nombre": "Química y Farmacia",
-    "link": "https://admision.uc.cl/carreras/quimica-y-farmacia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/quimica-y-farmacia/"
   },
   {
     "nombre": "Sociología",
-    "link": "https://admision.uc.cl/carreras/sociologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/sociologia/"
   },
   {
     "nombre": "Teología",
-    "link": "https://admision.uc.cl/carreras/teologia/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/teologia/"
   },
   {
     "nombre": "Terapia Ocupacional",
-    "link": "https://admision.uc.cl/carreras/terapia-ocupacional/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/terapia-ocupacional/"
   },
   {
     "nombre": "Trabajo Social",
-    "link": "https://admision.uc.cl/carreras/trabajo-social/",
-    "area": "",
-    "subArea": ""
+    "link": "https://admision.uc.cl/carreras/trabajo-social/"
   }
 ]

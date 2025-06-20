@@ -15,3 +15,6 @@ portal-vocacional-frontend/.vscode/
 
 # General
 .DS_Store
+
+# JSON de datos
+portal-vocacional-scrapers-python/*.json
